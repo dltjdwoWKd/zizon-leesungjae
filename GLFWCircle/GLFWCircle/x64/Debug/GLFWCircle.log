@@ -1,0 +1,2 @@
+﻿  d.c
+C:\Users\lee24\source\repos\GLFWCircle\GLFWCircle\d.c(1,10): error C1083: 포함 파일을 열 수 없습니다. 'GLFW/glfw3.h': No such file or directory
